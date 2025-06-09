@@ -1,4 +1,4 @@
-# Harley Priv Bots
+# Harley Gelişmiş Priv Bots
 
 ## Özellikler
 
@@ -6,6 +6,7 @@
 - **Canvaslı Ship Sistemi**: ship.js dosyasında resimlerin urlsini yapıştırıkdan sonra sorunsuz çalışır 
 - **Engel Sistemi**: Resim ve URL atmasını engeller butonludur
 - **Özel Komut Sistemi**: Örn : (.özelkomut ekle vip @ROL)
+- **Database**: Mongodb kullanmaktadır
 
 ### Gereksinimler:
 - Node.js (v16 ve üzeri)
