@@ -7,6 +7,7 @@
 - **Engel Sistemi**: Resim ve URL atmasını engeller butonludur
 - **Özel Komut Sistemi**: Örn : (.özelkomut ekle vip @ROL)
 - **Database**: Mongodb kullanmaktadır
+- **İltifat Sistemi**: config.jsdeki 'chatid' kısmındaki kanalda belirli bir mesajdan sonra random bir iltifat eder
 
 ### Gereksinimler:
 - Node.js (v16 ve üzeri)
